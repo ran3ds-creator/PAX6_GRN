@@ -1,2 +1,5 @@
 .DS_Store
 
+Stage18_Data.h5ad
+*.loom
+.ipynb_checkpoints/
