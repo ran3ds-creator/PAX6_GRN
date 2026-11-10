@@ -1,2 +1,3 @@
-TF,Type of protein,ON in cluster 6 (WT),ON in cluster 9 (WT),Paper source (if any),Notes
+TF,Type of protein,ON in cluster 6 (WT),ON in cluster 9 (WT),Paper source (if any),Notes/role in development
 RORB,TF,,,,
+PAX6,TF,,,,
