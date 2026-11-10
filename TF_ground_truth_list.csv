@@ -1,2 +1,2 @@
-TF,Type of protein
-RORB,TF
+TF,Type of protein,ON in cluster 6 (WT),ON in cluster 9 (WT),Paper source (if any),Notes
+RORB,TF,,,,

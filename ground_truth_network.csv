@@ -1,4 +1,4 @@
-" vv",Target,Effect,Evidence/Type,Summary,Source,Link,Publication,Verification,"","","",""
+" Source",Target,Effect,Evidence/Type,Summary,Paper Source,Link,Publication,Verification,"","","",""
 Rorb,Nrl,Positive,Knockout/Rescue,Rorb⁻/⁻ mice fail to express: Nrl forced Nrl rescues rod differentiation,"Jia et al., 2009",https://pmc.ncbi.nlm.nih.gov/articles/PMC2765160/?utm,"","","","","",""
 Nrl,Rorb,Positive,Promoter Activation,"NRL binds and activates the photoreceptor-specific RORβ2 promoter, establishing a positive feedback loop","Fu et al., 2014",https://pubmed.ncbi.nlm.nih.gov/25296752/,"","","","","",""
 Meis1,Pax6,Positive,"ChIP / Enhancer Binding; Knockout Studies","Meis1/Meis2 bind Pax6 enhancers; deletion of Meis1/Meis2 abolishes Pax6 expression and lens placode formation","Zhang et al., 2002 (PMID: 12183364); Antosova et al., 2016 (DOI: 10.1371/journal.pgen.1006441)",1. https://pubmed.ncbi.nlm.nih.gov/12183364/. 2. https://pubmed.ncbi.nlm.nih.gov/27918583/,"","","","","",""
