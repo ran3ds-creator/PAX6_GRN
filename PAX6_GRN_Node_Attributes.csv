@@ -1,0 +1,62 @@
+id,node_type,tissue_context
+asl1,Other gene or protein,Lens
+atoh7,Transcription factor,Multiple tissue groups
+bcl2,Other gene or protein,Other / unspecified
+bmp signaling,Signaling pathway,Other eye / optic tissue
+bmp7.1,Other gene or protein,Multiple tissue groups
+ccnd1,Other gene or protein,Multiple tissue groups
+ccnd2,Other gene or protein,Other / unspecified
+cdh2,Other gene or protein,Multiple tissue groups
+cdk4,Other gene or protein,Other neural / developmental
+creb1,Transcription factor,Other / unspecified
+crx,Transcription factor,Retina / photoreceptors
+dkk1,Other gene or protein,Multiple tissue groups
+dmrta1,Transcription factor,Other neural / developmental
+emx2,Transcription factor,Other neural / developmental
+foxd3,Transcription factor,Other neural / developmental
+foxn4,Transcription factor,Retina / photoreceptors
+fst,Other gene or protein,Multiple tissue groups
+fzd5,Other gene or protein,Multiple tissue groups
+gas1,Other gene or protein,Retina / photoreceptors
+hes1,Transcription factor,Retina / photoreceptors
+ins2,Other gene or protein,Other / unspecified
+lhx2,Transcription factor,Multiple tissue groups
+lix1,Other gene or protein,Multiple tissue groups
+lrp6,Other gene or protein,Other / unspecified
+mab21l1,Other gene or protein,Multiple tissue groups
+mef2c,Transcription factor,Retina / photoreceptors
+meis1,Transcription factor,Lens
+meis2,Transcription factor,Lens
+mitf,Transcription factor,Multiple tissue groups
+myb,Transcription factor,Multiple tissue groups
+neurog2,Transcription factor,Multiple tissue groups
+nrl,Transcription factor,Retina / photoreceptors
+onecut1,Transcription factor,Retina / photoreceptors
+otx2,Transcription factor,Multiple tissue groups
+pak3,Other gene or protein,Multiple tissue groups
+pax2,Transcription factor,Multiple tissue groups
+pax6,Transcription factor,Multiple tissue groups
+pou2f1,Transcription factor,Lens
+prox1,Transcription factor,Lens
+ptf1a,Transcription factor,Retina / photoreceptors
+rax,Transcription factor,Multiple tissue groups
+robo1,Other gene or protein,Other neural / developmental
+rorb,Transcription factor,Retina / photoreceptors
+sema3f,Other gene or protein,Other neural / developmental
+shh,Other gene or protein,Other neural / developmental
+six3,Transcription factor,Multiple tissue groups
+sox2,Transcription factor,Multiple tissue groups
+sox4,Transcription factor,Other neural / developmental
+sox5,Transcription factor,Other neural / developmental
+sp8,Transcription factor,Multiple tissue groups
+tgfb2,Other gene or protein,Lens
+tgfβ signaling,Signaling pathway,Multiple tissue groups
+tgfβ/activin signaling,Signaling pathway,Multiple tissue groups
+thrb,Transcription factor,Retina / photoreceptors
+vax1,Transcription factor,Other eye / optic tissue
+vsx2,Transcription factor,Retina / photoreceptors
+wnt/β-catenin signaling,Signaling pathway,Multiple tissue groups
+wnt2b,Other gene or protein,Other eye / optic tissue
+wnt3a,Other gene or protein,Other / unspecified
+zeb1,Transcription factor,Multiple tissue groups
+zeb2,Transcription factor,Multiple tissue groups

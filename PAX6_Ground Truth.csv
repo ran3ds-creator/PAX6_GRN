@@ -1,0 +1,83 @@
+source,target,type
+creb1,mitf,Positive
+crx,nrl,Positive
+crx,otx2,Positive
+foxd3,mitf,Negative
+foxn4,ptf1a,Positive
+hes1,otx2,Negative
+lhx2,pax6,Positive
+lhx2,rax,Positive
+lhx2,vsx2,Positive
+meis1,pax6,Positive
+meis2,pax6,Positive
+myb,pax6,Positive
+neurog2,atoh7,Positive
+nrl,mef2c,Positive
+nrl,rorb,Positive
+onecut1,thrb,Positive
+otx2,crx,Positive
+otx2,nrl,Positive
+otx2,otx2,Positive
+otx2,rax,Positive
+otx2,thrb,Positive
+pax2,pax6,Negative
+pax6,atoh7,Positive
+pax6,crx,Negative
+pax6,dmrta1,Positive
+pax6,emx2,Negative
+pax6,mitf,Positive
+pax6,neurog2,Positive
+pax6,pax2,Negative
+pax6,pax6,Positive
+pax6,prox1,Positive
+pax6,six3,Positive
+pax6,sox2,Positive
+pax6,sox4,Positive
+pax6,zeb2,Positive
+pou2f1,pax6,Positive
+rax,otx2,Positive
+rax,rax,Positive
+rorb,nrl,Positive
+rorb,ptf1a,Positive
+six3,pax6,Positive
+sox2,otx2,Positive
+sox2,pax6,Positive
+sox2,rax,Positive
+vax1,pax6,Negative
+vsx2,mitf,Negative
+zeb1,myb,Negative
+zeb2,pax6,Positive
+zeb2,ptf1a,Positive
+zeb2,zeb2,Positive
+lhx2,gas1,Positive
+lhx2,robo1,Negative
+myb,bcl2,Positive
+pax6,asl1,Positive
+pax6,ccnd1,Negative
+pax6,cdh2,Positive
+pax6,cdk4,Positive
+pax6,dkk1,Positive
+pax6,ins2,Positive
+pax6,lix1,Positive
+pax6,mab21l1,Positive
+pax6,tgfb2,Positive
+sox2,asl1,Positive
+sox2,shh,Positive
+sp8,ccnd1,Positive
+zeb1,pak3,Negative
+zeb2,bmp7.1,Negative
+zeb2,sema3f,Negative
+dkk1,lrp6,Binding / inhibition
+dkk1,wnt/β-catenin signaling,Negative
+wnt3a,fzd5,Binding
+fzd5,wnt/β-catenin signaling,Positive
+bmp7.1,dkk1,Positive
+bmp signaling,pax6,Positive
+pax6,fst,Positive
+fst,tgfβ/activin signaling,Negative
+tgfβ signaling,pax6,Negative
+tgfβ/activin signaling,wnt2b,Positive
+tgfβ/activin signaling,mitf,Positive
+sox5,wnt/β-catenin signaling,Negative
+wnt/β-catenin signaling,ccnd1,Positive
+wnt/β-catenin signaling,ccnd2,Positive
